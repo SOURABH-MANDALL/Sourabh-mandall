@@ -13,4 +13,4 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/photoshop-40.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sourabh-nobi&show_icons=true&locale=en&layout=compact" alt="sourabh-nobi" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sourabh-mandall&show_icons=true&locale=en&layout=compact" alt="sourabh-nobi" /></p>
